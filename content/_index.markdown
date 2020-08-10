@@ -1,38 +1,34 @@
 ---
-title: Home
+title: Sampath Dechu - Home
 ---
-
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
-
-# HUGO XMIN
-
-## _Keep it simple, but not simpler_
-
-**XMin** is a Hugo theme written by [Yihui Xie](https://yihui.name) in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 130 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).
+# About me: Sampath Dechu
 
 
-```bash
-find . -not -path '*/exampleSite/*' \( -name '*.html' -o -name '*.css' \) | xargs wc -l
-```
+### About my passion and expertise:
+I am passionate about building technology solutions for boosting *employee productivity in enterprises*. My expertise lies in design, build and deployment of data-driven computational software solutions and platforms.
 
-```
-       5 ./layouts/404.html
-      12 ./layouts/_default/single.html
-      20 ./layouts/_default/list.html
-      13 ./layouts/_default/terms.html
-       0 ./layouts/partials/foot_custom.html
-       0 ./layouts/partials/head_custom.html
-       9 ./layouts/partials/footer.html
-      20 ./layouts/partials/header.html
-      51 ./static/css/style.css
-       7 ./static/css/fonts.css
-     137 total
-```
+### About my technical experience: 
+I have developed and delivered products that included advanced computational software methods  such as: <span style="color: blue"> *combinatorial search, numerical optimization, graph theory, data mining, statistical inference, natural language procesing, machine learning, deep learning*</span>. I have experience of developing cloud-native fullstack applications using MEAN stack in microservice architecture. 
 
-I can certainly further reduce the code, for example, by eliminating the CSS, but I believe a tiny bit of CSS can greatly improve readability. You cannot really find many CSS frameworks that only contain 50 lines of code.
+### About my management experience:
+I have experience of working in early stage startups as well as large organisations. I have setup and managed multi-disciplinary teams with researchers, data scientists, software engineers. I have collaborated with stakeholders across geographies for strategic and operational purposes. I have pivoted away from my comfort zone multiple times to new areas, quickly aquired new skills and delivered meaningful outcomes.  
 
-Although it is a minimal theme, it is actually fully functional. It supports pages (including the home page), blog posts, a navigation menu, categories, tags, and RSS. With [a little bit customization](https://github.com/yihui/hugo-xmin/blob/master/exampleSite/layouts/partials/foot_custom.html), it can easily support LaTeX math expressions, e.g.,
+### About my approach:
+My approach involves:  
+   1. Understanding business requirements and personas
+   1. Discover the opportunities for technology intervention 
+   1. Exploration of technology stack (largely open source)
+   1. Evaluation of applicability of state of the art computational methods from academia
+   1. Minimum viable product design & continuous validation with users. 
+   1. Cloud-native solution build with agile practices
+   1. Persona based value metrics definition & continuous monitoring for value realization.
 
-`$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$`
-
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/). See the [About](/about/) page for the usage of this theme.
+### About my beliefs:
+I believe in:
+   1. Concept of growth mindset
+   1. User experience is more important than technology
+   1. Team is above any individual
+   1. Fail fast and dont sweat for perfection
+   1. Attitude is more important than skills
+   1. Lead by example
+   1. Radical candor in communciation
