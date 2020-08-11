@@ -1,7 +1,11 @@
----
-title: Sampath Dechu - Home
----
-# About me: Sampath Dechu
++++
+title = "About"
+description = "Hugo, the world's fastest framework for building websites"
+date = "2019-02-28"
+aliases = ["about-us", "about-hugo", "contact"]
+author = "Hugo Authors"
++++
+# Sampath Dechu
 
 
 ### About my passion and expertise:
@@ -10,7 +14,7 @@ I am passionate about building technology solutions for boosting *employee produ
 ### About my technical experience: 
 I have developed and delivered products that included advanced computational software methods  such as: <span style="color: blue"> *combinatorial search, numerical optimization, graph theory, data mining, statistical inference, natural language procesing, machine learning, deep learning*</span>. I have experience of developing cloud-native fullstack applications using MEAN stack in microservice architecture. 
 
-### About my management experience:
+### About my managerial experience:
 I have experience of working in early stage startups as well as large organisations. I have setup and managed multi-disciplinary teams with researchers, data scientists, software engineers. I have collaborated with stakeholders across geographies for strategic and operational purposes. I have pivoted away from my comfort zone multiple times to new areas, quickly aquired new skills and delivered meaningful outcomes.  
 
 ### About my approach:

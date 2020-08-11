@@ -1,6 +1,6 @@
 baseURL = "https://sampathdechu.github.io/"
 languageCode = "en-us"
-title = "A minimal Hugo website"
+title = "Sampath Dechu"
 theme = "xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -13,19 +13,30 @@ footnotereturnlinkcontents = "↩"
 
 [[menu.main]]
     name = "About"
-    url = "/"
+    url = "/about/"
     weight = 1
+[[menu.main]]
+    name = "Experience"
+    url = "/experience/"
+    weight = 2   
 [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 2
+    weight = 4
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
+    name = "Education"
+    url = "/education/"
+    weight = 5
+[[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 6
+
 
 [params]
-    description = "A website built using [this](https://github.com/yihui/hugo-xmin) theme"
+    header = "I am header"
+    footer = "sampath.dechu-at-gmail-dot-com | [Linkedin](https://in.linkedin.com/in/sampathdechu) | [Github](https://github.com/sampathdechu) | [Twitter](https://twitter.com/sampathdechu)  "
+
 
 [markup]
   [markup.goldmark]
