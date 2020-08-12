@@ -26,7 +26,7 @@ title: "Experience"
         <li> Process aware Auto-ML pipelines for prediction and recommendation tasks
         <li> Business goal-oriented data-driven decision recommendation systems
         <li> Causal inference for business process bottlenecks & counterfactual analysis of process optimization interventions. 
-        <li> Natural language interfaces (chatbots) for business process orchestration. 
+        <li> Natural language interfaces (chatbots) for business process orchestration. <br><br>
         </td>  
     </tr>
     <tr>
@@ -38,7 +38,9 @@ title: "Experience"
     </tr>
     <tr>
         <td colspan="5" style="text-align:left;padding:10px">
-        I have been managing team of researchers, data scientists and software engineers at IBM research  to develop innovative artificial intelligence solutions for business automation. 
+        In IBM systems lab in India, I was responsible for implementation of statistical methods for modeling and analysis of Digital Circuits. I built and led a team of 20 engineers with expertise in software development and electronics. Methods that we implemented led to more accurate yield prediction,  performance modeling and analysis especially  considering uncertainity during manufacturing process. <br><br>
+        I was responsibile in laying out multi-year strategy for India team and executed the strategy with gradual rampup of the team's skills and delivering high-value development efforts from India team. <br><br>
+        IBM pioneered in <a href="https://dl.acm.org/doi/10.1145/2897937.2898068"> statistical analysis</a> of micro-processor (Mainframe and Power) designs. The work we did led to  <span style="color:blue"> 3X productivity improvement</span> in IBM processor design teams. Overall cost of development efforts reduced significantly since the development team was located in India. <br><br>
         </td>  
     </tr>
      <tr>
@@ -50,7 +52,8 @@ title: "Experience"
     </tr>
     <tr>
         <td colspan="5">
-        I have been managing team of researchers, data scientists and software engineers at IBM research  to develop innovative artificial intelligence solutions for business automation. 
+       The two startups I worked are in the area of development electronic design automation tools.  Electronic design automation is the set of software tools which are used to design complex electronic system circuits. In both the start ups, I had responsibility to apply techniques such as combinatorial search, graph analysis and numerical optimization for exploration of better design choices for digital circuits. <br><br>
+       I have implemented optimization techniques for area reduction of digital circuits keeping the performance of the designs constant. This led to much lesser power consumption of the processors. The tool I have implemented was deployed at large hardware design and manufacturing companies e.g. Texas Instruments, TSMC, Samsung. The feature of the tool was licensed at 50K USD per license per annum. <br><br>
         </td>  
     </tr>
     <tr>
@@ -62,7 +65,8 @@ title: "Experience"
     </tr>
     <tr>
         <td colspan="5">
-        I have been managing team of researchers, data scientists and software engineers at IBM research  to develop innovative artificial intelligence solutions for business automation. 
+        I have implemented techniques for hierarchical graph modeling of digital circuits and traversal for detecting connectivity violations in digital circuits designs. These are critical validations that would need to be performed before digital designs are finalized for manufacturing. <br> <br>
+        Techniques I have implemented has improved the runtime of the tool by 3X compared to existing tool written in interpretable language. <br><br>
         </td>  
     </tr>
     <tr>
@@ -74,7 +78,7 @@ title: "Experience"
     </tr>
     <tr>
         <td colspan="5">
-        I have been managing team of researchers, data scientists and software engineers at IBM research  to develop innovative artificial intelligence solutions for business automation. 
+        As research assistant, I was responsible for preparing lab material for advanced very large scale intergrated design course. I was also responsible for guiding under-graduate students in lab work and evaluation. The courses were quite popular in the university and attendance was > 100 students. 
         </td>  
     </tr>
 </table>

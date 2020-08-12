@@ -22,15 +22,23 @@ footnotereturnlinkcontents = "↩"
 [[menu.main]]
     name = "Projects"
     url = "/projects/"
+    weight = 3
+[[menu.main]]
+    name = "Papers"
+    url = "/papers/"
     weight = 4
+[[menu.main]]
+    name = "Patents"
+    url = "/Patents/"
+    weight = 5 
 [[menu.main]]
     name = "Education"
     url = "/education/"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "Posts"
     url = "/post/"
-    weight = 6
+    weight = 7
 
 
 [params]
