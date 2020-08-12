@@ -27,7 +27,6 @@ My approach involves:
 I believe in:
    1. Concept of growth mindset
    1. User experience is more important than technology
-   1. Team is above any individual
    1. Fail fast and dont sweat for perfection
    1. Attitude is more important than skills
    1. Lead by example

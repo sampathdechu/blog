@@ -19,10 +19,7 @@ footnotereturnlinkcontents = "↩"
     name = "Experience"
     url = "/experience/"
     weight = 2   
-[[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 3
+
 [[menu.main]]
     name = "Papers"
     url = "/papers/"
@@ -35,9 +32,10 @@ footnotereturnlinkcontents = "↩"
     name = "Education"
     url = "/education/"
     weight = 6
+
 [[menu.main]]
-    name = "Posts"
-    url = "/post/"
+    name = "Contact"
+    url = "/contact/"
     weight = 7
 
 
