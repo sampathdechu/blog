@@ -41,7 +41,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     header = "I am header"
-    footer = "sampath.dechu-at-gmail-dot-com | [Linkedin](https://in.linkedin.com/in/sampathdechu) | [Github](https://github.com/sampathdechu) | [Twitter](https://twitter.com/sampathdechu)  "
+    footer = "sampath.dechu-at-gmail-dot-com | [Linkedin](https://in.linkedin.com/in/sampathdechu) | [Github](https://github.com/sampathdechu) | [Twitter](https://twitter.com/sampathdechu) <br>  [hugo-xmin](https://themes.gohugo.io/hugo-xmin/) theme "
 
 
 [markup]

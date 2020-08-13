@@ -1,1 +1,0 @@
-### Technical details of some of the proects I have lead
